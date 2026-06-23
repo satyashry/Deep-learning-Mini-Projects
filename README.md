@@ -1,2 +1,1 @@
-# DL-Mini-projects
-the repo is for the learning projects
+Collection of deep learning projects covering neural networks, computer vision, and practical AI applications.
